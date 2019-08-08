@@ -101,12 +101,12 @@ namespace SchoolSubjectExtractor
             subjects.Add(subject);
 
             subjects.RemoveAt(0);
-            db.Close();
+            db.reader.Close();
+            db.Create_Speciale(subjects);
 
-            foreach (Subject subject in subjects)
-            {
-                
-            }
+
+            //end
+            db.Close();
             Console.ReadKey();
         }
     }
