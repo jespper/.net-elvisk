@@ -101,9 +101,10 @@ namespace SchoolSubjectExtractor
             subjects.Add(subject);
 
             subjects.RemoveAt(0);
+            Console.WriteLine("Finished getting all the data");
             db.reader.Close();
             db.Create_Speciale(subjects);
-
+            Console.WriteLine("Finished creating subjects");
 
             //end
             db.Close();
