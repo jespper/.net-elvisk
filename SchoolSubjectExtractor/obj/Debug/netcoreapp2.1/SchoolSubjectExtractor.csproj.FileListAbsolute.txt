@@ -1,0 +1,11 @@
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Debug\netcoreapp2.1\SchoolSubjectExtractor.deps.json
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Debug\netcoreapp2.1\SchoolSubjectExtractor.runtimeconfig.json
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Debug\netcoreapp2.1\SchoolSubjectExtractor.runtimeconfig.dev.json
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Debug\netcoreapp2.1\SchoolSubjectExtractor.dll
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Debug\netcoreapp2.1\SchoolSubjectExtractor.csprojAssemblyReference.cache
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Debug\netcoreapp2.1\SchoolSubjectExtractor.csproj.CoreCompileInputs.cache
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Debug\netcoreapp2.1\SchoolSubjectExtractor.AssemblyInfoInputs.cache
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Debug\netcoreapp2.1\SchoolSubjectExtractor.AssemblyInfo.cs
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Debug\netcoreapp2.1\SchoolSubjectExtractor.pdb
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Debug\netcoreapp2.1\SchoolSubjectExtractor.dll
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Debug\netcoreapp2.1\SchoolSubjectExtractor.pdb
