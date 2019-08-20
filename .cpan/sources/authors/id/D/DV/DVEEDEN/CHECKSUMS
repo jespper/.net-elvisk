@@ -1,0 +1,85 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Sat Jan 12 12:53:00 2019 GMT by CPAN::Checksums (v2.12)
+$cksum = {
+  'DBD-mysql-4.049.meta' => {
+    'md5' => 'ec59f9b482f7f864c274afc179509d73',
+    'mtime' => '2018-11-17',
+    'sha256' => '45b9a7e4105783e34f33a665ab6c0862719886f8a5de3d6493861a7e5a71b123',
+    'size' => 4720
+  },
+  'DBD-mysql-4.049.tar.gz' => {
+    'md5' => '113e39ffe9ef001b3f692db93fde6ac2',
+    'md5-ungz' => '5d01de0a8b6f657a279718eebd71f56c',
+    'mtime' => '2018-11-17',
+    'sha256' => 'cfbf020f1e53a1d9d48ab964af1e3fa0228dc4f5df6da66e691c5c01cae0413b',
+    'sha256-ungz' => '3537874cfc85a4e176811c1dc109904ff2ddf0220614b6909995218f03dc5103',
+    'size' => 160889
+  },
+  'DBD-mysql-4.050.meta' => {
+    'md5' => '60281012c36bd02b40e8012516d1b7e7',
+    'mtime' => '2019-01-09',
+    'sha256' => '929ae61aa3bddebb01d846035260c81222e96fa0080d6728a75a26df3bd2af1d',
+    'size' => 4720
+  },
+  'DBD-mysql-4.050.tar.gz' => {
+    'md5' => '29b1f61321d0892885ccfd0e7bc07f7f',
+    'md5-ungz' => '28c4dbf4fa440f899619091e8eb339fe',
+    'mtime' => '2019-01-09',
+    'sha256' => '4f48541ff15a0a7405f76adc10f81627c33996fbf56c95c26c094444c0928d78',
+    'sha256-ungz' => 'eaf7b250e6dbe723a5edcc2cabcaa193918638583981c8a2eab5482ccc09aad6',
+    'size' => 161579
+  },
+  'DBD-mysqlx-0.001.meta' => {
+    'md5' => '864e0c173b354660e8f5659f1f2d2abc',
+    'mtime' => '2018-12-20',
+    'sha256' => '159991f340fd80331fc1f896885601bbab7a72592133500b90b5ec886d729b7d',
+    'size' => 884
+  },
+  'DBD-mysqlx-0.001.tar.gz' => {
+    'md5' => 'dd72742d8c2a8261fc73087e25f4b6aa',
+    'md5-ungz' => '79cccb8dbce0d5bd076032c32be6d03a',
+    'mtime' => '2018-12-20',
+    'sha256' => '01fcfd3380c5d7a822d7785454113b4658f7658164d73d6c1d6bbec5ea599c69',
+    'sha256-ungz' => '7544b013346ed16f0e3941215ee61005abfde68c47e23e0092017e8db43951b4',
+    'size' => 19620
+  },
+  'DBD-mysqlx-0.002.meta' => {
+    'md5' => 'bb91e261c99222d42240d58a436cd784',
+    'mtime' => '2018-12-21',
+    'sha256' => '4bd1963ee389e4f7c4e140d19971e9ada63326e611922e4ba0de9a92f3917c9b',
+    'size' => 884
+  },
+  'DBD-mysqlx-0.002.tar.gz' => {
+    'md5' => '22665718e7297eb2a97b2bcce437d035',
+    'md5-ungz' => '30112f514a9f0ec02ad2ef2404a8bfef',
+    'mtime' => '2018-12-21',
+    'sha256' => '082185af706ce32226a8bd362040609624c47dadcbbe36b456b15a5b70abacb3',
+    'sha256-ungz' => 'b0df52fccff9492d83ae2aae1e180f5abaa494386c18d84d65f62891728aa822',
+    'size' => 19744
+  },
+  'DBD-mysqlx-0.003.meta' => {
+    'md5' => '0a92848a3d72b50fce9aee7092e7ba09',
+    'mtime' => '2019-01-12',
+    'sha256' => '605f9cce674ce10c03a609e162b253aa9ff73142fd601e884b3f9c3e2054041b',
+    'size' => 884
+  },
+  'DBD-mysqlx-0.003.tar.gz' => {
+    'md5' => '81bc41acc6245a6ef1f78fc425445151',
+    'md5-ungz' => '1369ecfaf50be11b41981cdd83f19bf1',
+    'mtime' => '2019-01-12',
+    'sha256' => 'e1b6dd526f7bdb7a4aa8e31d1ae665114448d94ebca5f4cc566c925b82d8896c',
+    'sha256-ungz' => '469167a4e3b2e6f813ebd3f4a654714e37f2b01ff04ec65753813b79ecdce3bf',
+    'size' => 21410
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iEYEARECAAYFAlw54ywACgkQMo2oZ0UPiezYYACfboutoluwgcxwYA9UU+r/a1Uk
+aSoAnj7Gre0d13MORmhwvA02QEEj6QRr
+=N3au
+-----END PGP SIGNATURE-----

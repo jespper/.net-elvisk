@@ -1,0 +1,68 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: IO::CaptureOutput
+  CHECKSUM_STATUS: OK
+  ID: D/DA/DAGOLDEN/IO-CaptureOutput-1.1104.tar.gz
+  RO:
+    CPAN_COMMENT: ~
+    CPAN_USERID: DAGOLDEN
+  archived: tar
+  build_dir: /home/jesper/.cpan/build/IO-CaptureOutput-1.1104-0
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055274
+  localfile: /home/jesper/.cpan/sources/authors/id/D/DA/DAGOLDEN/IO-CaptureOutput-1.1104.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055272
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055273
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: 0
+      File::Spec: 3.27
+      IO::File: 0
+      Test::More: 0.62
+    opt_build_requires:
+      CPAN::Meta: 2.120900
+    opt_requires: {}
+    requires:
+      Carp: 0
+      Exporter: 0
+      File::Basename: 0
+      File::Temp: 0.16
+      Symbol: 0
+      perl: 5.006
+      strict: 0
+      vars: 0
+      warnings: 0
+  reqtype: b
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055272
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055272
+perl:
+  $^X: /usr/bin/perl
+  mtime_$^X: 1542642884
+  mtime_dll: 0
+  sitearchexp: /usr/local/lib/x86_64-linux-gnu/perl/5.26.1
+time: 1562055274

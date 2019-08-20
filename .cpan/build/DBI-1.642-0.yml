@@ -1,0 +1,57 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: DBI
+  CHECKSUM_STATUS: OK
+  ID: T/TI/TIMB/DBI-1.642.tar.gz
+  RO:
+    CPAN_COMMENT: ~
+    CPAN_USERID: TIMB
+  archived: tar
+  build_dir: /home/jesper/.cpan/build/DBI-1.642-0
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055180
+  localfile: /home/jesper/.cpan/sources/authors/id/T/TI/TIMB/DBI-1.642.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055095
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055180
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: 6.48
+      Test::Simple: 0.90
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      perl: 5.008
+  reqtype: c
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055085
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1562055087
+perl:
+  $^X: /usr/bin/perl
+  mtime_$^X: 1542642884
+  mtime_dll: 0
+  sitearchexp: /usr/local/lib/x86_64-linux-gnu/perl/5.26.1
+time: 1562055180

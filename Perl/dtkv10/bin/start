@@ -1,0 +1,27 @@
+#!/usr/bin/perl
+
+use DBI;
+use Config::Simple;
+use strict;
+
+#Get common conf from config file
+my %cfg;
+Config::Simple->import_from('./eud.conf', \%cfg);
+
+#Build dsn
+my $dsn = "DBI:$cfg{driver}:database=$cfg{database}:host=$cfg{host}";
+print("----------------------------------------------\n");
+my $dbh = DBI->connect($dsn, $cfg{userid}, $cfg{password} ) or die $DBI::errstr;
+ my $rows = $dbh->do("show tables") or die $DBI::errstr;
+print("Rows = $rows\n");
+my $sth;
+$sth = $dbh->prepare("show tables");
+ $sth->execute() or die $DBI::errstr;
+ while (my @row = $sth->fetchrow_array()) {
+  my ($first_name, $last_name ) = @row;
+  print "First Name = $first_name, Last Name = $last_name\n";
+ }
+
+
+$dbh->disconnect;
+

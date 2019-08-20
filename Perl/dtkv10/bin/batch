@@ -1,0 +1,9 @@
+#!/bin/bash
+mysql -uroot -pl8heise < ./euddb4.sql
+ echo "Y"|./eudtrin1.pl ../data/1205-010717.pdf
+ echo "Y"|./eudtrin1.pl ../data/automatik.pdf
+ echo "Y"|./eudtrin1.pl ../data/Elektriker.pdf
+ echo "Y"|./eudtrin1.pl ../data/Elektronik.pdf
+ echo "Y"|./eudtrin1.pl "../data/Personvogns mekaniker.pdf"
+ echo "Y"|./eudtrin1.pl ../data/vvs.pdf
+ echo "Y"|./eudtrin1.pl ../data/1205-01082018.pdf
