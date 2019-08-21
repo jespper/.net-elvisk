@@ -95,7 +95,10 @@ my @speciality_added;
 my @combined_added;
 my $dbh;
 my $sth;
+my $count = 0;
 $dbh = DBI->connect( $dsn, $cfg{userid}, $cfg{password} ) or die $DBI::errstr;
+my $t = qq{SET NAMES 'utf8'};
+$dbh->do($t);
 
 
 
@@ -107,18 +110,72 @@ for(my $i = 0; $i < $#doc; $i++){
     }
 
     if($doc[$i] =~ /Elevtypesamling:\s*/){
-        
+        my $sql2 = "INSERT INTO
+                        elevtype (ordning_id, samling)
+                    SELECT
+                        *
+                    FROM
+                    (
+                        SELECT
+                        (SELECT
+                            max(ordning_id)
+                            FROM
+                            elevtype), ?
+                    ) AS tmp
+                    WHERE
+                    NOT EXISTS(
+                        SELECT
+                        ordning_id, samling
+                        FROM
+                        elevtype 
+                        WHERE
+                        ordning_id = (SELECT
+                            max(ordning_id)
+                            FROM
+                            elevtype
+                            )
+                        AND samling = ?
+                    )
+                    ";
+        my $sth2 = $dbh->prepare($sql2);
+
         $chosenType = $';
         $chosenType =~ s{\n}{}g;
+        $sth2->execute($chosenType, $chosenType) or die $DBI::errstr;
         printf $chosenType . "\n";
         #printf $chosenType;
     }
     if($doc[$i] =~/Fag\s/){
         
-        my $sql1 = "SELECT * FROM speciale";
+        my $sql1 = "INSERT INTO
+                        speciale (speciale)
+                    SELECT
+                        *
+                    FROM
+                    (
+                        SELECT
+                        ?
+                    ) AS tmp
+                    WHERE
+                    NOT EXISTS(
+                        SELECT
+                        speciale
+                        FROM
+                        speciale
+                        WHERE
+                        speciale = ?
+                    )
+                    ";
         my $sth1 = $dbh->prepare($sql1);
+        my $tmpString = $';
+        if($tmpString =~ /på\s\S*\s/){
+            $chosenspeciality = $';
+        }else {
+            $chosenspeciality = $tmpString;
+        }
+        $chosenspeciality =~ s{\n}{}g;
     
-        $sth1->execute() or die $DBI::errstr;
+        $sth1->execute($chosenspeciality, $chosenspeciality) or die $DBI::errstr;
 
         while(my @row = $sth1->fetchrow_array()) {
             #printf $row[1] . "\n";
@@ -139,13 +196,9 @@ for(my $i = 0; $i < $#doc; $i++){
             }
         }
         #printf "\n" . $';
-        my $tmpString = $';
-        if($tmpString =~ /på\s\S*\s/){
-            $chosenspeciality = $';
-        }else {
-            $chosenspeciality = $tmpString;
-        }
-        $chosenspeciality =~ s{\n}{}g;
+        
+
+
         printf $chosenspeciality . "\n";
     }
     if($doc[$i] =~ /\s\d+\s/){
@@ -154,21 +207,47 @@ for(my $i = 0; $i < $#doc; $i++){
 
         my $subject_number;
         my $subject_name;
-        my $subject_level;
-        my $subject_category;
+        my @subject_level;
+        my $subject_category = "";
         my $subject_type;
         my $duration_original;
         my $date;
         my $shortening;
         my $duration;
         $subject_number = $&;
-        
+        #printf "Whats happening: %s\n" ,$doc[$i];
         if($' =~ /(.*?)[ \t]{2,}/){
             $subject_name = $1;
+                #printf "Whats happening: %s\n" ,$';
             if($' =~ /(.*?)[ \t]{2,}/){
-                $subject_level = $1;
-                if($' =~ /(.*?)[ \t]{2,}/){
-                    $subject_category = $1;
+                my $subject_level_tmp = $1;
+                my $subject_tmp = $';
+                my $test = 0;
+                #printf $1 . "\n";
+                if($subject_level_tmp =~ /1/){
+                    push @subject_level, "Begynder";
+                    $test = 1;
+                }
+                if($subject_level_tmp =~ /2/){
+                    push @subject_level, "Rutineret";
+                    $test = 1;
+                }
+                if($subject_level_tmp =~ /3/){
+                    push @subject_level, "Avanceret";
+                    $test = 1;
+                }
+                if($subject_level_tmp =~ /4/){
+                    push @subject_level, "Ekspert";
+                    $test = 1;
+                }
+                if($test == 0){
+                    push @subject_level, $subject_level_tmp;
+                }
+                #printf "Whats happening: %s\n" ,$';
+
+                if($subject_tmp =~ /(.*?)[ \t]{2,}/){
+                    
+                    $subject_category = $&;
                     if($' =~ /(.*?)[ \t]{2,}/){
                         if($1 eq "V"){
                             #Valgfri
@@ -199,13 +278,19 @@ for(my $i = 0; $i < $#doc; $i++){
         }
         #speciale_name, subject_name, subject_level, subject_cat, subject_number, student_type_name
         $subject_number =~ s/^\s+|\s+$//g;
-        #printf ":" . $subject_category . ":\n";
+        # printf ":" . $subject_category . ":\n";
+        # printf ":" . $subject_type . ":\n";
+        $subject_category =~ s/[ \t]+$//;
         $subject_category = "%" . $subject_category . "%";
-        #printf ":" . $chosenspeciality . ":\n";
-        #printf ":" . $subject_name . ":\n";
-        #printf ":" . $subject_level . ":\n";
-        #printf ":" . $subject_number . ":\n";
-        #printf ":" . $chosenType . ":\n";
+        $subject_name = "%" . $subject_name . "%";
+        
+        # printf ":" . $chosenspeciality . ":\n";
+        # printf ":" . $subject_name . ":\n";
+        # printf ":" . $subject_level . ":\n";
+        # printf ":" . $subject_number . ":\n";
+        # printf ":" . $chosenType . ":\n";
+        #exit;
+        
         my $sql2 = "INSERT INTO
                 kombiner_fag_spc (speciale_id, faginstans_id, elevtype_id)
                 SELECT
@@ -226,11 +311,11 @@ for(my $i = 0; $i < $#doc; $i++){
                         faginstans
                         LEFT JOIN fag ON fag.fag_id = faginstans.fag_id
                     WHERE
-                        fagnavn = ?
+                        fagnavn LIKE ?
                         AND niveau = ?
                         AND fagkat LIKE ?
                         AND fagnr = ?
-                        AND fagkat = ?
+                        AND fagtype = ?
                     ) AS faginstans_id,(
                     SELECT
                         elevtype_id
@@ -272,11 +357,11 @@ for(my $i = 0; $i < $#doc; $i++){
                         faginstans
                         LEFT JOIN fag ON fag.fag_id = faginstans.fag_id
                         WHERE
-                        fagnavn = ?
+                        fagnavn LIKE ?
                         AND niveau = ?
                         AND fagkat LIKE ?
                         AND fagnr = ?
-                        AND fagkat = ?
+                        AND fagtype = ?
                     )
                     AND elevtype_id = (
                         SELECT
@@ -298,8 +383,20 @@ for(my $i = 0; $i < $#doc; $i++){
                 ";
 
         my $sth2 = $dbh->prepare($sql2);
-        $sth2->execute($chosenspeciality, $subject_name, $subject_level, $subject_category,$subject_number, $subject_type, $chosenType,$chosenspeciality, $subject_name, $subject_level, $subject_category,$subject_number, $subject_type, $chosenType) or die $DBI::errstr;
-        printf "faginstans added: " . $subject_number . "\n";
+        for(@subject_level){
+            printf "speciality: %s\n", $chosenspeciality;
+            printf "type: %s\n", $chosenType;
+            printf "subjectName: %s\n", $subject_name;
+            printf "subjectLevel: %s\n", $_;
+            printf "subjectCategory: %s\n", $subject_category;
+            printf "subjectNumber: %s\n", $subject_number;
+            printf "subjectType: %s\n", $subject_type;
+            $sth2->execute($chosenspeciality, $subject_name, $_, $subject_category,$subject_number, $subject_type, $chosenType,$chosenspeciality, $subject_name, $_, $subject_category,$subject_number, $subject_type, $chosenType) or die $DBI::errstr;
+            printf "Affected: %s\n", $sth2->rows;
+            $count = $count + 1;
+            printf $count . "\n";
+        }
+        #printf "faginstans added: " . $subject_number . "\n";
     }
 }
 

@@ -318,6 +318,8 @@ printf( "Fase %2i: Opretter ordning i databasen......................",
 
 #Build dsn
 $dbh = DBI->connect( $dsn, $cfg{userid}, $cfg{password} ) or die $DBI::errstr;
+my $t = qq{SET NAMES 'utf8'};
+$dbh->do($t);
 
 #DEBUG $dbh->{TraceLevel} = "3|SQL|foo";
 
@@ -351,7 +353,7 @@ for ( my $i = 0 ; $i <= $#doc ; $i++ ) {
             "INSERT INTO elevtype (elevtype_id, ordning_id ,samling)
                                       values( NULL, $ordning_id, \"$elevtype\")"
         );
-        $sth->execute() or die $DBI::errstr;
+        #$sth->execute() or die $DBI::errstr;
         my $elevtype_id = $dbh->{'mysql_insertid'};
         $i++;
         my @elevtypelines;
@@ -360,8 +362,8 @@ for ( my $i = 0 ; $i <= $#doc ; $i++ ) {
             $i++;
         }
         $sth = $dbh->prepare(
-            "INSERT INTO elevtyperaw (line_id, line, elevtype_id)
-					      values ( NULL, ? , $elevtype_id)"
+            "INSERT INTO elevtyperaw (line_id, line, ordning_id)
+					      values ( NULL, ? , $ordning_id)"
         );
         my $lines =
           $sth->execute_array( { ArrayStatus => \my @status }, \@elevtypelines )
