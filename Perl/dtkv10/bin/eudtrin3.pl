@@ -69,8 +69,6 @@ Config::Simple->import_from( './eud.conf', \%cfg )
 #Database connection string
 my $dsn  = "DBI:$cfg{driver}:database=$cfg{database}:host=$cfg{host}";
 my $fase = 1;
-printf( "Fase %2i: Oversætter PDF til text...........................",
-    $fase++ );
 if ( system("pdftotext -layout '$infile' $rawfile 2>/dev/null") ) {
     die("PDF fil kunne ikke oversættes til tekst ($infile)\n");
 }
@@ -84,7 +82,8 @@ my %udd;
 my $tmp;
 my @tmparr;
 
-my $tmptype;
+my $chosenType;
+my $chosenspeciality;
 
 # Kopier raw ascii  til array
 while ( defined( $line = <INFILE> ) ) {
@@ -92,16 +91,216 @@ while ( defined( $line = <INFILE> ) ) {
 }
 close(INFILE);
 #goto label1;
+my @speciality_added;
+my @combined_added;
+my $dbh;
+my $sth;
+$dbh = DBI->connect( $dsn, $cfg{userid}, $cfg{password} ) or die $DBI::errstr;
 
-for(my $i; $i < $#doc; $i++){
-    #printf $i.": " . $doc[$i];
 
-    if($doc[$i] =~ /Elevtypesamling:/){
-        printf $i . ": " . $doc[$i];
-        $tmptype = $';
-        printf $tmptype;
+
+for(my $i = 0; $i < $#doc; $i++){
+    #printf $doc[$i];
+
+    if($doc[$i] =~/Side\s\d+\s\w+\s\d+/){
+        next;
     }
-    if()
+
+    if($doc[$i] =~ /Elevtypesamling:\s*/){
+        
+        $chosenType = $';
+        $chosenType =~ s{\n}{}g;
+        printf $chosenType . "\n";
+        #printf $chosenType;
+    }
+    if($doc[$i] =~/Fag\s/){
+        
+        my $sql1 = "SELECT * FROM speciale";
+        my $sth1 = $dbh->prepare($sql1);
+    
+        $sth1->execute() or die $DBI::errstr;
+
+        while(my @row = $sth1->fetchrow_array()) {
+            #printf $row[1] . "\n";
+            my $val = $row[1];
+            my $bool = 0;
+            for(@speciality_added){
+                if($bool == 1){
+                    last;
+                }
+
+                if($_ eq $val){
+                    $bool = 1;
+                }
+            }
+
+            if($bool == 0){
+                push(@speciality_added, $row[1]);
+            }
+        }
+        #printf "\n" . $';
+        my $tmpString = $';
+        if($tmpString =~ /på\s\S*\s/){
+            $chosenspeciality = $';
+        }else {
+            $chosenspeciality = $tmpString;
+        }
+        $chosenspeciality =~ s{\n}{}g;
+        printf $chosenspeciality . "\n";
+    }
+    if($doc[$i] =~ /\s\d+\s/){
+        #printf $doc[$i];
+        my $tmpsubject = $doc[$i];
+
+        my $subject_number;
+        my $subject_name;
+        my $subject_level;
+        my $subject_category;
+        my $subject_type;
+        my $duration_original;
+        my $date;
+        my $shortening;
+        my $duration;
+        $subject_number = $&;
+        
+        if($' =~ /(.*?)[ \t]{2,}/){
+            $subject_name = $1;
+            if($' =~ /(.*?)[ \t]{2,}/){
+                $subject_level = $1;
+                if($' =~ /(.*?)[ \t]{2,}/){
+                    $subject_category = $1;
+                    if($' =~ /(.*?)[ \t]{2,}/){
+                        if($1 eq "V"){
+                            #Valgfri
+                            $subject_type = "Valgfri";
+                        }elsif($1 eq "B"){
+                            #Bundet
+                            $subject_type = "Bundet";
+                        }elsif($1 eq "VVN"){
+                            #Valgfri, valgfrit niveau
+                            $subject_type = "Valgfri, valgfrit niveau";
+                        }elsif($1 eq "BVN"){
+                            #Bundet, valgfrit niveau
+                            $subject_type = "Bundet, valgfrit niveau";
+                        }
+                        if($' =~ /(.*?)[ \t]{2,}/){
+                            $duration_original = $1;
+                            if($' =~ /(.*?)[ \t]{2,}/){
+                                $date = $1;
+                                if($' =~ /(.*?)[ \t]{2,}/){
+                                    $shortening = $1;
+                                    $duration = $';
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        #speciale_name, subject_name, subject_level, subject_cat, subject_number, student_type_name
+        $subject_number =~ s/^\s+|\s+$//g;
+        #printf ":" . $subject_category . ":\n";
+        $subject_category = "%" . $subject_category . "%";
+        #printf ":" . $chosenspeciality . ":\n";
+        #printf ":" . $subject_name . ":\n";
+        #printf ":" . $subject_level . ":\n";
+        #printf ":" . $subject_number . ":\n";
+        #printf ":" . $chosenType . ":\n";
+        my $sql2 = "INSERT INTO
+                kombiner_fag_spc (speciale_id, faginstans_id, elevtype_id)
+                SELECT
+                *
+                FROM
+                (
+                    (
+                    SELECT
+                        speciale_id
+                    FROM
+                        speciale
+                    WHERE
+                        speciale = ?
+                    ) AS speciale_id,(
+                    SELECT
+                        faginstans_id
+                    FROM
+                        faginstans
+                        LEFT JOIN fag ON fag.fag_id = faginstans.fag_id
+                    WHERE
+                        fagnavn = ?
+                        AND niveau = ?
+                        AND fagkat LIKE ?
+                        AND fagnr = ?
+                        AND fagkat = ?
+                    ) AS faginstans_id,(
+                    SELECT
+                        elevtype_id
+                    FROM
+                        elevtype f
+                    WHERE
+                        samling = ?
+                        AND ordning_id = (
+                        SELECT
+                            max(ordning_id)
+                        FROM
+                            elevtype s
+                        WHERE
+                            f.samling = s.samling
+                        )
+                    ) AS elevtype_id
+                ) 
+                WHERE
+                NOT EXISTS(
+                    SELECT
+                    speciale_id,
+                    faginstans_id,
+                    elevtype_id
+                    FROM
+                    kombiner_fag_spc
+                    WHERE
+                    speciale_id = (
+                        SELECT
+                        speciale_id
+                        FROM
+                        speciale
+                        WHERE
+                        speciale = ?
+                    )
+                    AND faginstans_id = (
+                        SELECT
+                        faginstans_id
+                        FROM
+                        faginstans
+                        LEFT JOIN fag ON fag.fag_id = faginstans.fag_id
+                        WHERE
+                        fagnavn = ?
+                        AND niveau = ?
+                        AND fagkat LIKE ?
+                        AND fagnr = ?
+                        AND fagkat = ?
+                    )
+                    AND elevtype_id = (
+                        SELECT
+                        elevtype_id
+                        FROM
+                        elevtype f
+                        WHERE
+                        samling = ?
+                        AND ordning_id = (
+                            SELECT
+                            max(ordning_id)
+                            FROM
+                            elevtype s
+                            WHERE
+                            f.samling = s.samling
+                        )
+                    )
+                )
+                ";
+
+        my $sth2 = $dbh->prepare($sql2);
+        $sth2->execute($chosenspeciality, $subject_name, $subject_level, $subject_category,$subject_number, $subject_type, $chosenType,$chosenspeciality, $subject_name, $subject_level, $subject_category,$subject_number, $subject_type, $chosenType) or die $DBI::errstr;
+        printf "faginstans added: " . $subject_number . "\n";
+    }
 }
 
 exit(1);
@@ -158,9 +357,7 @@ printf( "  - Udskriftsdato......: %s\n",  $udd{'udskrevet'} );
 printf( "  - Antal sider........: %s\n",  $udd{'sider'} );
 
 #Er denne version allerede i databasen?
-my $dbh;
-my $sth;
-$dbh = DBI->connect( $dsn, $cfg{userid}, $cfg{password} ) or die $DBI::errstr;
+
 
 #$dbh->{TraceLevel} = "1|SQL"; # DBI DEBUG
 $sth = $dbh->prepare(
