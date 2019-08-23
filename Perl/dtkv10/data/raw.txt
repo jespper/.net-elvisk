@@ -1,0 +1,1423 @@
+                                               Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                    Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                               Side 1 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+
+Elevtypesamling:           Ungdom og EUV3
+Fag fælles for hovedforløb
+
+Nr         Titel                                       Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                       varighed                           kort   hed
+                                                                                                        (uger)                                 (uger)
+     1551 Operativsystemer III                         Avanceret     Uddannelsesspecifikke         V     2,5   01-08-2019 og fremefter     0%      2,5
+     1590 Fiberinstallation                            Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1598 Mailserver i Windows organisationen          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6245 Gateway sikkerhed                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6247 Embedded Controller, Dataopsamling og        Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6287 Trådløst netværk (WLAN)                      Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6543 XML                                          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 10540 Servermigration                                 3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 10662 System design og analyse gennem et              3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16852 Netværk I                                       2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16853 IT Service Management I                         Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16854 Computerteknologi                               2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16856 Serverteknologi - Databaseserver                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16857 Serverteknologi                                 2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16858 Serveradministration og sikkerhed               2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16859 Serverteknologi - Linux                         2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                               Varighed (bundne)        10,5                                     10,5
+Fag på specialet/trinnet Datatekniker med speciale i infrastruktur
+
+Nr         Titel                                       Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                       varighed                           kort   hed
+                                                                                                        (uger)                                 (uger)
+     1595 Netværksdesign II                            3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1600 Serverteknologi II - Design af               3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     1609 Embedded Controller, projekt                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                               Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2149 Sikkerhed IV                                 Ekspert       Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                        2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6252 Netværksdesign I                             3,4           Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6259 Afsluttende projekt for datatekn.            Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6272 Embedded Controller I                        1,2,3,4       Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6273 Embedded Controller II                       2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6275 Embedded Controller III                      2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6277 Projektstyring                               2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                        2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6295 Core Applications                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6495 Afs.prv- Datatekniker med speciale i         Uden niveau   Afsluttende prøve             B     0,0   01-08-2019 og fremefter     0%      0,0
+     7102 Computer Cluster Infrastruktur-Design        3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     7103 Computer Cluster Programmering               3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+                                              Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                             Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                        Side 2 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  7123 Faglig processtyring                           3,4           Uddannelsesspecifikke   VVN   2,0   01-08-2019 og fremefter     0%      2,0
+  9446 LINQ og Entity Framework                       3,4           Uddannelsesspecifikke   VVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 12245 Komp-mål, Datatekniker med speciale i          Uden niveau   Kompetencemål            B          01-08-2019 og fremefter
+ 12783 Vedligeholdelse af computere                   Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12794 Installation og konfiguration af computere     Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12795 Fejlfinding og -retning af computere           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12796 Installation af servere                        Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12797 Fejlfinding og -retning af servere             Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12798 Installation af netværk                        Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12799 Fejlfinding og -retning af netværk             Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12800 Brugertilpasning af operativsystemer           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12851 Opgradering af operativsystemer                Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12852 Perifer hardware                               Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12853 Sikkerhed på servere                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12854 Sikkerhed på netværk                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12855 IT service - computer                          Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12856 IT service - servere                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12857 IT service - netværk                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12858 IT service - operativsystemer                  Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12859 Brugerservice - computere                      Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12860 Brugerservice - netværk                        Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12861 Brugerservice - applikationer                  Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12862 Serveroperativsystemer                         Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12863 Klientoperativsystemer                         Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12864 Serverløsninger                                Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12865 Netværksløsninger - design                     Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12868 Netværksløsninger - installation m.m.          Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12872 Avanceret fejlfinding af netværk               Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12874 Sikkerhed - implementering                     Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 16471 Grundlæggende programmering                    Rutineret     Uddannelsesspecifikke    V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server                   2,3,4         Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                                     2,3,4         Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                         2,3,4         Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                           Avanceret     Uddannelsesspecifikke    B    1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                                   Rutineret     Uddannelsesspecifikke    B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering            Rutineret     Uddannelsesspecifikke    B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                                    2,3,4         Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                              3,4           Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16868 Serverteknologi - Cluster                      3,4           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16869 Virtualisering                                 2,3,4         Uddannelsesspecifikke   BVN   1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                        3,4           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16871 Netværksteknologi I                            3,4           Uddannelsesspecifikke   BVN   2,5   01-08-2019 og fremefter     0%      2,5
+ 16872 Netværksteknologi II                           3,4           Uddannelsesspecifikke   BVN   2,5   01-08-2019 og fremefter     0%      2,5
+ 16873 Netværksteknologi III                          3,4           Uddannelsesspecifikke   BVN   2,5   01-08-2019 og fremefter     0%      2,5
+ 16874 Backupteknologi                                2,3           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                 2,3           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                             2,3,4         Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                       Avanceret     Uddannelsesspecifikke    B    1,0   01-08-2019 og fremefter     0%      1,0
+                                               Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                       Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                                  Side 3 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 16878 Udvikling                                       Avanceret     Uddannelsesspecifikke            B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring               Avanceret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+ 17509 Cybersecurity Operations                        Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17510 Sikkerhed: Firewall                             Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17512 Sikkerhed: Cloud-løsninger                      Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                  Varighed (bundne)        37,5                                     37,5
+Fag på specialet/trinnet Datatekniker med speciale i programmering
+
+Nr         Titel                                       Niveau        Fagkategori                  B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                          varighed                           kort   hed
+                                                                                                           (uger)                                 (uger)
+     1595 Netværksdesign II                            3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1609 Embedded Controller, projekt                 Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                               Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                           Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                        2,3,4         Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I           Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6252 Netværksdesign I                             3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6272 Embedded Controller I                        1,2,3,4       Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6273 Embedded Controller II                       2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6275 Embedded Controller III                      2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6277 Projektstyring                               2,3,4         Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                        2,3,4         Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6279 Afsluttende projekt datatekn,                Avanceret     Uddannelsesspecifikke            B     4,0   01-08-2019 og fremefter     0%      4,0
+     6295 Core Applications                            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6621 Afs.prv. Datatekniker med spec. i            Uden niveau   Afsluttende prøve                B           01-08-2019 og fremefter
+     7102 Computer Cluster Infrastruktur-Design        3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     7103 Computer Cluster Programmering               3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     7123 Faglig processtyring                         3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     9446 LINQ og Entity Framework                     3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 12250 Komp-mål, Datatekniker med speciale i           Uden niveau   Kompetencemål                    B           01-08-2019 og fremefter
+ 12885 Sikkerhed - programudvikling                    Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12888 Programudvikling - it-systemer                  Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12889 Programudvikling - (web)applikationer           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12890 Programmering - databaseudvikling               Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12891 Programmering - embedded systemer               Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 15937 Game-design I                                   Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 15938 Game-design II                                  Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16471 Grundlæggende programmering                     2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16474 Databaseprogrammering                           3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16475 GUI-programmering                               3,4           Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16476 Clientsideprogrammering                         2,3,4         Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16477 Serversideprogrammering                         3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16478 App programmering I                             2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16479 App programmering II                            3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16480 App programmering III                           3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16481 Linux rettet mod server og embedded             2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+                                                 Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                         Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                                    Side 4 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 16483 Versionering og dokumentation                     2             Uddannelsesspecifikke        BVN       0,5   01-08-2019 og fremefter     0%      0,5
+ 16484 Softwaretest og -sikkerhed                        2,3           Uddannelsesspecifikke        BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16493 Programudvikling - projektstyring                 Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16494 Programudvikling - versionering                   Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16495 Programudvikling - App                            Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16662 Programudvikling - Test                           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16861 Netværk II                                        2,3,4         Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                              Avanceret     Uddannelsesspecifikke            V     1,5   01-08-2019 og fremefter     0%      1,5
+ 16867 Netværkssikkerhed                                 Avanceret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16870 Serverautomatisering II                           Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                    2,3           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                                Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                          Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                         Avanceret     Uddannelsesspecifikke            B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring                 Avanceret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+ 16880 Objektorienteret programmering                    2,3,4         Uddannelsesspecifikke        BVN       3,5   01-08-2019 og fremefter     0%      3,5
+ 17334 Objekt Orienteret Analyse og Design               Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17348 Machine Learning                                  Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17548 User Interface Design                             Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                    Varighed (bundne)        37,5                                     37,5
+Fag på specialet/trinnet IT-supporter
+
+Nr         Titel                                         Niveau        Fagkategori                  B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                            varighed                           kort   hed
+                                                                                                             (uger)                                 (uger)
+     1599 Small Business Server                          Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     1600 Serverteknologi II - Design af                 3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     2566 IP Telefoni I                                  Begynder      Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6233 Afsluttende projekt for IT-supporter           Rutineret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+     6249 Systemforståelse - fax, kopi og scanner        Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6251 Digitale kontormaskiner                        Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6252 Netværksdesign I                               3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6277 Projektstyring                                 2,3,4         Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6487 Virtualisering af clienter                     3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6998 Afsl.prv: Data/komm.udd., IT-supporter         Uden niveau   Afsluttende prøve                B           01-08-2019 og fremefter
+     7101 Computer Cluster Administration                Avanceret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+     7122 Netværksswitching                              Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 12274 Komp-mål, IT-supporter                            Uden niveau   Kompetencemål                    B           01-08-2019 og fremefter
+ 12783 Vedligeholdelse af computere                      Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12794 Installation og konfiguration af computere        Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12795 Fejlfinding og -retning af computere              Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12796 Installation af servere                           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12797 Fejlfinding og -retning af servere                Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12798 Installation af netværk                           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12799 Fejlfinding og -retning af netværk                Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12800 Brugertilpasning af operativsystemer              Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12851 Opgradering af operativsystemer                   Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+                                       Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                              Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                         Side 5 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 12852 Perifer hardware                        Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12853 Sikkerhed på servere                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12854 Sikkerhed på netværk                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12855 IT service - computer                   Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12856 IT service - servere                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12857 IT service - netværk                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12858 IT service - operativsystemer           Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 16471 Grundlæggende programmering             Rutineret     Uddannelsesspecifikke            V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server            2,3,4         Uddannelsesspecifikke        BVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                              2,3,4         Uddannelsesspecifikke        BVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                  2,3,4         Uddannelsesspecifikke        BVN      1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                    Avanceret     Uddannelsesspecifikke            B    1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                            Rutineret     Uddannelsesspecifikke            B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering     Rutineret     Uddannelsesspecifikke            B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                             2,3,4         Uddannelsesspecifikke        VVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                       Avanceret     Uddannelsesspecifikke            V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16869 Virtualisering                          2,3,4         Uddannelsesspecifikke        VVN      1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                 Avanceret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16874 Backupteknologi                         Rutineret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                          2,3           Uddannelsesspecifikke        VVN      1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                      Rutineret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                Avanceret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+
+                                                                          Varighed (bundne)       10,5                                     10,5
+                                               Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                    Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                               Side 6 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+
+Elevtypesamling:           EUV 2
+Fag fælles for hovedforløb
+
+Nr         Titel                                       Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                       varighed                           kort   hed
+                                                                                                        (uger)                                 (uger)
+     1551 Operativsystemer III                         Avanceret     Uddannelsesspecifikke         V     2,5   01-08-2019 og fremefter     0%      2,5
+     1590 Fiberinstallation                            Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1598 Mailserver i Windows organisationen          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6245 Gateway sikkerhed                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6247 Embedded Controller, Dataopsamling og        Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6287 Trådløst netværk (WLAN)                      Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6543 XML                                          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+ 10540 Servermigration                                 3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 10662 System design og analyse gennem et              3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16852 Netværk I                                       2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16853 IT Service Management I                         Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16854 Computerteknologi                               2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16856 Serverteknologi - Databaseserver                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16857 Serverteknologi                                 2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16858 Serveradministration og sikkerhed               2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16859 Serverteknologi - Linux                         2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                               Varighed (bundne)        10,5                                     10,5
+Fag på specialet/trinnet Datatekniker med speciale i infrastruktur
+
+Nr         Titel                                       Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                       varighed                           kort   hed
+                                                                                                        (uger)                                 (uger)
+     1595 Netværksdesign II                            3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1600 Serverteknologi II - Design af               3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     1609 Embedded Controller, projekt                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                               Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2149 Sikkerhed IV                                 Ekspert       Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                        2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                             3,4           Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6259 Afsluttende projekt for datatekn.            Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6272 Embedded Controller I                        1,2,3,4       Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6273 Embedded Controller II                       2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6275 Embedded Controller III                      2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6277 Projektstyring                               2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                        2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6295 Core Applications                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6495 Afs.prv- Datatekniker med speciale i         Uden niveau   Afsluttende prøve             B     0,0   01-08-2019 og fremefter     0%      0,0
+     7102 Computer Cluster Infrastruktur-Design        3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7103 Computer Cluster Programmering               3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+                                              Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                             Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                        Side 7 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  7123 Faglig processtyring                           3,4           Uddannelsesspecifikke   VVN   2,0   01-08-2019 og fremefter     0%      2,0
+  9446 LINQ og Entity Framework                       3,4           Uddannelsesspecifikke   VVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 12245 Komp-mål, Datatekniker med speciale i          Uden niveau   Kompetencemål            B          01-08-2019 og fremefter
+ 12783 Vedligeholdelse af computere                   Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12794 Installation og konfiguration af computere     Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12795 Fejlfinding og -retning af computere           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12796 Installation af servere                        Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12797 Fejlfinding og -retning af servere             Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12798 Installation af netværk                        Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12799 Fejlfinding og -retning af netværk             Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12800 Brugertilpasning af operativsystemer           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12851 Opgradering af operativsystemer                Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12852 Perifer hardware                               Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12853 Sikkerhed på servere                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12854 Sikkerhed på netværk                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12855 IT service - computer                          Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12856 IT service - servere                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12857 IT service - netværk                           Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12858 IT service - operativsystemer                  Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12859 Brugerservice - computere                      Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12860 Brugerservice - netværk                        Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12861 Brugerservice - applikationer                  Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12862 Serveroperativsystemer                         Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12863 Klientoperativsystemer                         Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12864 Serverløsninger                                Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12865 Netværksløsninger - design                     Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12868 Netværksløsninger - installation m.m.          Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12872 Avanceret fejlfinding af netværk               Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12874 Sikkerhed - implementering                     Uden niveau   Praktikmål               B    0,0   01-08-2019 og fremefter     0%      0,0
+ 16471 Grundlæggende programmering                    Rutineret     Uddannelsesspecifikke    V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server                   2,3,4         Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                                     2,3,4         Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                         2,3,4         Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                           Avanceret     Uddannelsesspecifikke    B    1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                                   Rutineret     Uddannelsesspecifikke    B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering            Rutineret     Uddannelsesspecifikke    B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                                    2,3,4         Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                              3,4           Uddannelsesspecifikke   BVN   2,0   01-08-2019 og fremefter     0%      2,0
+ 16868 Serverteknologi - Cluster                      3,4           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16869 Virtualisering                                 2,3,4         Uddannelsesspecifikke   BVN   1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                        3,4           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16871 Netværksteknologi I                            3,4           Uddannelsesspecifikke   BVN   2,5   01-08-2019 og fremefter     0%      2,5
+ 16872 Netværksteknologi II                           3,4           Uddannelsesspecifikke   BVN   2,5   01-08-2019 og fremefter     0%      2,5
+ 16873 Netværksteknologi III                          3,4           Uddannelsesspecifikke   BVN   2,5   01-08-2019 og fremefter     0%      2,5
+ 16874 Backupteknologi                                2,3           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                 2,3           Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                             2,3,4         Uddannelsesspecifikke   BVN   1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                       Avanceret     Uddannelsesspecifikke    B    1,0   01-08-2019 og fremefter     0%      1,0
+                                               Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                       Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                                  Side 8 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 16878 Udvikling                                       Avanceret     Uddannelsesspecifikke            B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring               Avanceret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+ 17509 Cybersecurity Operations                        Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17510 Sikkerhed: Firewall                             Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17512 Sikkerhed: Cloud-løsninger                      Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                  Varighed (bundne)        37,5                                     37,5
+Fag på specialet/trinnet Datatekniker med speciale i programmering
+
+Nr         Titel                                       Niveau        Fagkategori                  B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                          varighed                           kort   hed
+                                                                                                           (uger)                                 (uger)
+     1595 Netværksdesign II                            3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1609 Embedded Controller, projekt                 Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                               Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                           Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                        2,3,4         Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I           Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                             3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6272 Embedded Controller I                        1,2,3,4       Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6273 Embedded Controller II                       2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6275 Embedded Controller III                      2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6277 Projektstyring                               2,3,4         Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                        2,3,4         Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6279 Afsluttende projekt datatekn,                Avanceret     Uddannelsesspecifikke            B     4,0   01-08-2019 og fremefter     0%      4,0
+     6295 Core Applications                            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6621 Afs.prv. Datatekniker med spec. i            Uden niveau   Afsluttende prøve                B           01-08-2019 og fremefter
+     7102 Computer Cluster Infrastruktur-Design        3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7103 Computer Cluster Programmering               3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7123 Faglig processtyring                         3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     9446 LINQ og Entity Framework                     3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 12250 Komp-mål, Datatekniker med speciale i           Uden niveau   Kompetencemål                    B           01-08-2019 og fremefter
+ 12885 Sikkerhed - programudvikling                    Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12888 Programudvikling - it-systemer                  Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12889 Programudvikling - (web)applikationer           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12890 Programmering - databaseudvikling               Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12891 Programmering - embedded systemer               Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 15937 Game-design I                                   Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 15938 Game-design II                                  Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16471 Grundlæggende programmering                     2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16474 Databaseprogrammering                           3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16475 GUI-programmering                               3,4           Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16476 Clientsideprogrammering                         2,3,4         Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16477 Serversideprogrammering                         3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16478 App programmering I                             2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16479 App programmering II                            3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16480 App programmering III                           3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16481 Linux rettet mod server og embedded             2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+                                                 Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                         Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                                    Side 9 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 16483 Versionering og dokumentation                     2             Uddannelsesspecifikke        BVN       0,5   01-08-2019 og fremefter     0%      0,5
+ 16484 Softwaretest og -sikkerhed                        2,3           Uddannelsesspecifikke        BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16493 Programudvikling - projektstyring                 Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16494 Programudvikling - versionering                   Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16495 Programudvikling - App                            Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16662 Programudvikling - Test                           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16861 Netværk II                                        2,3,4         Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                              Avanceret     Uddannelsesspecifikke            V     1,5   01-08-2019 og fremefter     0%      1,5
+ 16867 Netværkssikkerhed                                 Avanceret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16870 Serverautomatisering II                           Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                    2,3           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                                Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                          Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                         Avanceret     Uddannelsesspecifikke            B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring                 Avanceret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+ 16880 Objektorienteret programmering                    2,3,4         Uddannelsesspecifikke        BVN       3,5   01-08-2019 og fremefter     0%      3,5
+ 17334 Objekt Orienteret Analyse og Design               Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17348 Machine Learning                                  Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17548 User Interface Design                             Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                    Varighed (bundne)        37,5                                     37,5
+Fag på specialet/trinnet IT-supporter
+
+Nr         Titel                                         Niveau        Fagkategori                  B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                            varighed                           kort   hed
+                                                                                                             (uger)                                 (uger)
+     1599 Small Business Server                          Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     1600 Serverteknologi II - Design af                 3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     2566 IP Telefoni I                                  Begynder      Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter    25%      0,8
+     6233 Afsluttende projekt for IT-supporter           Rutineret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+     6249 Systemforståelse - fax, kopi og scanner        Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6251 Digitale kontormaskiner                        Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                               3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter            Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+     6277 Projektstyring                                 2,3,4         Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6487 Virtualisering af clienter                     3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6998 Afsl.prv: Data/komm.udd., IT-supporter         Uden niveau   Afsluttende prøve                B           01-08-2019 og fremefter
+     7101 Computer Cluster Administration                Avanceret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter    25%      1,5
+     7122 Netværksswitching                              Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 12274 Komp-mål, IT-supporter                            Uden niveau   Kompetencemål                    B           01-08-2019 og fremefter
+ 12783 Vedligeholdelse af computere                      Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12794 Installation og konfiguration af computere        Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12795 Fejlfinding og -retning af computere              Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12796 Installation af servere                           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12797 Fejlfinding og -retning af servere                Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12798 Installation af netværk                           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12799 Fejlfinding og -retning af netværk                Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12800 Brugertilpasning af operativsystemer              Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12851 Opgradering af operativsystemer                   Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+                                       Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                              Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                        Side 10 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 12852 Perifer hardware                        Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12853 Sikkerhed på servere                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12854 Sikkerhed på netværk                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12855 IT service - computer                   Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12856 IT service - servere                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12857 IT service - netværk                    Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 12858 IT service - operativsystemer           Uden niveau   Praktikmål                       B    0,0   01-08-2019 og fremefter     0%      0,0
+ 16471 Grundlæggende programmering             Rutineret     Uddannelsesspecifikke            V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server            2,3,4         Uddannelsesspecifikke        BVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                              2,3,4         Uddannelsesspecifikke        BVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                  2,3,4         Uddannelsesspecifikke        BVN      1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                    Avanceret     Uddannelsesspecifikke            B    1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                            Rutineret     Uddannelsesspecifikke            B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering     Rutineret     Uddannelsesspecifikke            B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                             2,3,4         Uddannelsesspecifikke        VVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                       Avanceret     Uddannelsesspecifikke            V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16869 Virtualisering                          2,3,4         Uddannelsesspecifikke        VVN      1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                 Avanceret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16874 Backupteknologi                         Rutineret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                          2,3           Uddannelsesspecifikke        VVN      1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                      Rutineret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                Avanceret     Uddannelsesspecifikke            V    1,0   01-08-2019 og fremefter     0%      1,0
+
+                                                                          Varighed (bundne)       10,5                                     10,5
+                                               Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                    Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                              Side 11 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+
+Elevtypesamling:           EUV1
+Fag fælles for hovedforløb
+
+Nr         Titel                                       Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                       varighed                           kort   hed
+                                                                                                        (uger)                                 (uger)
+     1551 Operativsystemer III                         Avanceret     Uddannelsesspecifikke         V     2,5   01-08-2019 og fremefter     0%      2,5
+     1590 Fiberinstallation                            Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1598 Mailserver i Windows organisationen          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6245 Gateway sikkerhed                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6247 Embedded Controller, Dataopsamling og        Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6287 Trådløst netværk (WLAN)                      Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6543 XML                                          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+ 10540 Servermigration                                 3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 10662 System design og analyse gennem et              3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16852 Netværk I                                       2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16853 IT Service Management I                         Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16854 Computerteknologi                               2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16856 Serverteknologi - Databaseserver                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16857 Serverteknologi                                 2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16858 Serveradministration og sikkerhed               2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16859 Serverteknologi - Linux                         2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                               Varighed (bundne)        10,5                                     10,5
+Fag på specialet/trinnet Datatekniker med speciale i infrastruktur
+
+Nr         Titel                                       Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                       varighed                           kort   hed
+                                                                                                        (uger)                                 (uger)
+     1595 Netværksdesign II                            3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1600 Serverteknologi II - Design af               3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     1609 Embedded Controller, projekt                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                               Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2149 Sikkerhed IV                                 Ekspert       Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                        2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                             3,4           Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6259 Afsluttende projekt for datatekn.            Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6272 Embedded Controller I                        1,2,3,4       Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6273 Embedded Controller II                       2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6275 Embedded Controller III                      2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6277 Projektstyring                               2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                        2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6295 Core Applications                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6495 Afs.prv- Datatekniker med speciale i         Uden niveau   Afsluttende prøve             B     0,0   01-08-2019 og fremefter     0%      0,0
+     7102 Computer Cluster Infrastruktur-Design        3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7103 Computer Cluster Programmering               3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+                                               Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                    Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                              Side 12 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+     7123 Faglig processtyring                         3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     9446 LINQ og Entity Framework                     3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 12245 Komp-mål, Datatekniker med speciale i           Uden niveau   Kompetencemål                 B           01-08-2019 og fremefter
+ 16471 Grundlæggende programmering                     Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server                    2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                                      2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                          2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                            Avanceret     Uddannelsesspecifikke         B     1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                                    Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering             Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                                     2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                               3,4           Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16868 Serverteknologi - Cluster                       3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16869 Virtualisering                                  2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                         3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16871 Netværksteknologi I                             3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16872 Netværksteknologi II                            3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16873 Netværksteknologi III                           3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16874 Backupteknologi                                 2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                  2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                              2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                        Avanceret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                       Avanceret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring               Avanceret     Uddannelsesspecifikke         B     2,0   01-08-2019 og fremefter     0%      2,0
+ 17509 Cybersecurity Operations                        Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17510 Sikkerhed: Firewall                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17512 Sikkerhed: Cloud-løsninger                      Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                               Varighed (bundne)        37,5                                     37,5
+Fag på specialet/trinnet Datatekniker med speciale i programmering
+
+Nr         Titel                                       Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                       varighed                           kort   hed
+                                                                                                        (uger)                                 (uger)
+     1595 Netværksdesign II                            3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1609 Embedded Controller, projekt                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                               Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                        2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                             3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6272 Embedded Controller I                        1,2,3,4       Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6273 Embedded Controller II                       2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6275 Embedded Controller III                      2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6277 Projektstyring                               2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                        2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6279 Afsluttende projekt datatekn,                Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6295 Core Applications                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+                                                 Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                      Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                                Side 13 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+     6621 Afs.prv. Datatekniker med spec. i              Uden niveau   Afsluttende prøve             B           01-08-2019 og fremefter
+     7102 Computer Cluster Infrastruktur-Design          3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7103 Computer Cluster Programmering                 3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7123 Faglig processtyring                           3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     9446 LINQ og Entity Framework                       3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 12250 Komp-mål, Datatekniker med speciale i             Uden niveau   Kompetencemål                 B           01-08-2019 og fremefter
+ 15937 Game-design I                                     Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 15938 Game-design II                                    Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16471 Grundlæggende programmering                       2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16474 Databaseprogrammering                             3,4           Uddannelsesspecifikke     BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16475 GUI-programmering                                 3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16476 Clientsideprogrammering                           2,3,4         Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16477 Serversideprogrammering                           3,4           Uddannelsesspecifikke     BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16478 App programmering I                               2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16479 App programmering II                              3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16480 App programmering III                             3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16481 Linux rettet mod server og embedded               2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16483 Versionering og dokumentation                     2             Uddannelsesspecifikke     BVN       0,5   01-08-2019 og fremefter     0%      0,5
+ 16484 Softwaretest og -sikkerhed                        2,3           Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16861 Netværk II                                        2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                              Avanceret     Uddannelsesspecifikke         V     1,5   01-08-2019 og fremefter     0%      1,5
+ 16867 Netværkssikkerhed                                 Avanceret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16870 Serverautomatisering II                           Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                    2,3           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                                Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                          Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                         Avanceret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring                 Avanceret     Uddannelsesspecifikke         B     2,0   01-08-2019 og fremefter     0%      2,0
+ 16880 Objektorienteret programmering                    2,3,4         Uddannelsesspecifikke     BVN       3,5   01-08-2019 og fremefter     0%      3,5
+ 17334 Objekt Orienteret Analyse og Design               Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17348 Machine Learning                                  Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17548 User Interface Design                             Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                 Varighed (bundne)        37,5                                     37,5
+Fag på specialet/trinnet IT-supporter
+
+Nr         Titel                                         Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                         varighed                           kort   hed
+                                                                                                          (uger)                                 (uger)
+     1599 Small Business Server                          Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1600 Serverteknologi II - Design af                 3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     2566 IP Telefoni I                                  Begynder      Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6233 Afsluttende projekt for IT-supporter           Rutineret     Uddannelsesspecifikke         B     2,0   01-08-2019 og fremefter     0%      2,0
+     6249 Systemforståelse - fax, kopi og scanner        Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6251 Digitale kontormaskiner                        Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                               3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6277 Projektstyring                                 2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6487 Virtualisering af clienter                     3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+                                          Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                              Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                        Side 14 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  6998 Afsl.prv: Data/komm.udd., IT-supporter     Uden niveau   Afsluttende prøve             B          01-08-2019 og fremefter
+  7101 Computer Cluster Administration            Avanceret     Uddannelsesspecifikke         V    2,0   01-08-2019 og fremefter    25%      1,5
+  7122 Netværksswitching                          Rutineret     Uddannelsesspecifikke         V    2,0   01-08-2019 og fremefter     0%      2,0
+ 12274 Komp-mål, IT-supporter                     Uden niveau   Kompetencemål                 B          01-08-2019 og fremefter
+ 16471 Grundlæggende programmering                Rutineret     Uddannelsesspecifikke         V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server               2,3,4         Uddannelsesspecifikke     BVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                                 2,3,4         Uddannelsesspecifikke     BVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                     2,3,4         Uddannelsesspecifikke     BVN      1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                       Avanceret     Uddannelsesspecifikke         B    1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                               Rutineret     Uddannelsesspecifikke         B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering        Rutineret     Uddannelsesspecifikke         B    1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                                2,3,4         Uddannelsesspecifikke     VVN      2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                          Avanceret     Uddannelsesspecifikke         V    2,0   01-08-2019 og fremefter     0%      2,0
+ 16869 Virtualisering                             2,3,4         Uddannelsesspecifikke     VVN      1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                    Avanceret     Uddannelsesspecifikke         V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16874 Backupteknologi                            Rutineret     Uddannelsesspecifikke         V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                             2,3           Uddannelsesspecifikke     VVN      1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                         Rutineret     Uddannelsesspecifikke         V    1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                   Avanceret     Uddannelsesspecifikke         V    1,0   01-08-2019 og fremefter     0%      1,0
+
+                                                                          Varighed (bundne)       10,5                                     10,5
+                                                Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                     Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                               Side 15 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+
+Elevtypesamling:           EUX og EUV3
+Fag fælles for hovedforløb
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1551 Operativsystemer III                          Avanceret     Uddannelsesspecifikke         V     2,5   01-08-2019 og fremefter     0%      2,5
+     1590 Fiberinstallation                             Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1598 Mailserver i Windows organisationen           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6245 Gateway sikkerhed                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6247 Embedded Controller, Dataopsamling og         Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6287 Trådløst netværk (WLAN)                       Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6543 XML                                           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 10540 Servermigration                                  3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 10662 System design og analyse gennem et               3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16852 Netværk I                                        2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16853 IT Service Management I                          Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16854 Computerteknologi                                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16856 Serverteknologi - Databaseserver                 2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16857 Serverteknologi                                  2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16858 Serveradministration og sikkerhed                2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16859 Serverteknologi - Linux                          2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                Varighed (bundne)        10,5                                     10,5
+Fag på specialet/trinnet Datatekniker med speciale i infrastruktur
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1289 Eux valgfag, løft af niveau, 4 uger           Uden niveau   EUX-fag                       B     4,0   01-08-2019 og fremefter     0%      4,0
+     1595 Netværksdesign II                             3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1600 Serverteknologi II - Design af                3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     1609 Embedded Controller, projekt                  Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                                Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2149 Sikkerhed IV                                  Ekspert       Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                         2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6252 Netværksdesign I                              3,4           Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6259 Afsluttende projekt for datatekn.             Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6272 Embedded Controller I                         1,2,3,4       Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6273 Embedded Controller II                        2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6275 Embedded Controller III                       2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6277 Projektstyring                                2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                         2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6295 Core Applications                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6495 Afs.prv- Datatekniker med speciale i          Uden niveau   Afsluttende prøve             B     0,0   01-08-2019 og fremefter     0%      0,0
+     6656 Kemi                                          C             hf                            V     3,7   01-08-2019 og fremefter    35%      2,4
+                                              Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                              Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                        Side 16 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  6678 Informatik                                     B             hhx                      B     9,8   01-08-2019 og fremefter    70%      3,0
+  6688 Dansk                                          A             htx                      B    12,8   01-08-2019 og fremefter    52%      6,1
+  6689 Engelsk                                        B             htx                      B     9,8   01-08-2019 og fremefter    51%      4,8
+  6691 Fysik                                          B             htx                      B     9,4   01-08-2019 og fremefter    62%      3,6
+  6695 Matematik                                      B             htx                      B    14,0   01-08-2019 og fremefter    64%      5,1
+  6739 Teknikfag - digitalt design og udvikling       B             EUX-fag                  B     8,0   01-08-2019 og fremefter    50%      4,0
+  6744 Erhvervsområdeprojekt teknisk eux              Uden niveau   EUX-fag                  B     2,0   01-08-2019 og fremefter    20%      1,6
+  7102 Computer Cluster Infrastruktur-Design          3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter     0%      2,0
+  7103 Computer Cluster Programmering                 3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter     0%      2,0
+  7123 Faglig processtyring                           3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter     0%      2,0
+  9446 LINQ og Entity Framework                       3,4           Uddannelsesspecifikke   VVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 10842 Kemi, eux                                      C             Grundfag                 V     3,0   01-08-2019 og fremefter    20%      2,4
+ 12245 Komp-mål, Datatekniker med speciale i          Uden niveau   Kompetencemål            B           01-08-2019 og fremefter
+ 12783 Vedligeholdelse af computere                   Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12794 Installation og konfiguration af computere     Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12795 Fejlfinding og -retning af computere           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12796 Installation af servere                        Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12797 Fejlfinding og -retning af servere             Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12798 Installation af netværk                        Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12799 Fejlfinding og -retning af netværk             Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12800 Brugertilpasning af operativsystemer           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12851 Opgradering af operativsystemer                Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12852 Perifer hardware                               Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12853 Sikkerhed på servere                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12854 Sikkerhed på netværk                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12855 IT service - computer                          Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12856 IT service - servere                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12857 IT service - netværk                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12858 IT service - operativsystemer                  Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12859 Brugerservice - computere                      Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12860 Brugerservice - netværk                        Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12861 Brugerservice - applikationer                  Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12862 Serveroperativsystemer                         Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12863 Klientoperativsystemer                         Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12864 Serverløsninger                                Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12865 Netværksløsninger - design                     Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12868 Netværksløsninger - installation m.m.          Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12872 Avanceret fejlfinding af netværk               Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12874 Sikkerhed - implementering                     Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16471 Grundlæggende programmering                    Rutineret     Uddannelsesspecifikke    V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server                   2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                                     2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                         2,3,4         Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                           Avanceret     Uddannelsesspecifikke    B     1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                                   Rutineret     Uddannelsesspecifikke    B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering            Rutineret     Uddannelsesspecifikke    B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                                    2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                              3,4           Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+                                                Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                     Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                               Side 17 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 16868 Serverteknologi - Cluster                        3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16869 Virtualisering                                   2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                          3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16871 Netværksteknologi I                              3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16872 Netværksteknologi II                             3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16873 Netværksteknologi III                            3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16874 Backupteknologi                                  2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                   2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                               2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                         Avanceret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                        Avanceret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring                Avanceret     Uddannelsesspecifikke         B     2,0   01-08-2019 og fremefter     0%      2,0
+ 17509 Cybersecurity Operations                         Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17510 Sikkerhed: Firewall                              Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17512 Sikkerhed: Cloud-løsninger                       Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                Varighed (bundne)       107,4                                     69,6
+Fag på specialet/trinnet Datatekniker med speciale i programmering
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1289 Eux valgfag, løft af niveau, 4 uger           Uden niveau   EUX-fag                       B     4,0   01-08-2019 og fremefter     0%      4,0
+     1595 Netværksdesign II                             3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1609 Embedded Controller, projekt                  Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                                Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                         2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6252 Netværksdesign I                              3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6272 Embedded Controller I                         1,2,3,4       Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6273 Embedded Controller II                        2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6275 Embedded Controller III                       2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6277 Projektstyring                                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                         2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6279 Afsluttende projekt datatekn,                 Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6295 Core Applications                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6621 Afs.prv. Datatekniker med spec. i             Uden niveau   Afsluttende prøve             B           01-08-2019 og fremefter
+     6656 Kemi                                          C             hf                            V     3,7   01-08-2019 og fremefter    35%      2,4
+     6678 Informatik                                    B             hhx                           B     9,8   01-08-2019 og fremefter    70%      3,0
+     6688 Dansk                                         A             htx                           B    12,8   01-08-2019 og fremefter    52%      6,1
+     6689 Engelsk                                       B             htx                           B     9,8   01-08-2019 og fremefter    51%      4,8
+     6691 Fysik                                         B             htx                           B     9,4   01-08-2019 og fremefter    62%      3,6
+     6695 Matematik                                     B             htx                           B    14,0   01-08-2019 og fremefter    64%      5,1
+     6739 Teknikfag - digitalt design og udvikling      B             EUX-fag                       B     8,0   01-08-2019 og fremefter    50%      4,0
+     6744 Erhvervsområdeprojekt teknisk eux             Uden niveau   EUX-fag                       B     2,0   01-08-2019 og fremefter    20%      1,6
+     7102 Computer Cluster Infrastruktur-Design         3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     7103 Computer Cluster Programmering                3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+                                           Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                   Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                             Side 18 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  7123 Faglig processtyring                        3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+  9446 LINQ og Entity Framework                    3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 10842 Kemi, eux                                   C             Grundfag                         V     3,0   01-08-2019 og fremefter    20%      2,4
+ 12250 Komp-mål, Datatekniker med speciale i       Uden niveau   Kompetencemål                    B           01-08-2019 og fremefter
+ 12885 Sikkerhed - programudvikling                Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12888 Programudvikling - it-systemer              Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12889 Programudvikling - (web)applikationer       Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12890 Programmering - databaseudvikling           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12891 Programmering - embedded systemer           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 15937 Game-design I                               Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 15938 Game-design II                              Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16471 Grundlæggende programmering                 2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16474 Databaseprogrammering                       3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16475 GUI-programmering                           3,4           Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16476 Clientsideprogrammering                     2,3,4         Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16477 Serversideprogrammering                     3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16478 App programmering I                         2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16479 App programmering II                        3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16480 App programmering III                       3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16481 Linux rettet mod server og embedded         2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16483 Versionering og dokumentation               2             Uddannelsesspecifikke        BVN       0,5   01-08-2019 og fremefter     0%      0,5
+ 16484 Softwaretest og -sikkerhed                  2,3           Uddannelsesspecifikke        BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16493 Programudvikling - projektstyring           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16494 Programudvikling - versionering             Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16495 Programudvikling - App                      Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16662 Programudvikling - Test                     Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16861 Netværk II                                  2,3,4         Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                      Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                        Avanceret     Uddannelsesspecifikke            V     1,5   01-08-2019 og fremefter     0%      1,5
+ 16867 Netværkssikkerhed                           Avanceret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16870 Serverautomatisering II                     Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                              2,3           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                          Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                    Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                   Avanceret     Uddannelsesspecifikke            B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring           Avanceret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+ 16880 Objektorienteret programmering              2,3,4         Uddannelsesspecifikke        BVN       3,5   01-08-2019 og fremefter     0%      3,5
+ 17334 Objekt Orienteret Analyse og Design         Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17348 Machine Learning                            Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17548 User Interface Design                       Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                              Varighed (bundne)       107,4                                     69,6
+                                                Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                     Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                               Side 19 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+
+Elevtypesamling:           EUX og EUV2
+Fag fælles for hovedforløb
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1551 Operativsystemer III                          Avanceret     Uddannelsesspecifikke         V     2,5   01-08-2019 og fremefter     0%      2,5
+     1590 Fiberinstallation                             Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1598 Mailserver i Windows organisationen           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6245 Gateway sikkerhed                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6247 Embedded Controller, Dataopsamling og         Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6287 Trådløst netværk (WLAN)                       Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6543 XML                                           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+ 10540 Servermigration                                  3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 10662 System design og analyse gennem et               3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16852 Netværk I                                        2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16853 IT Service Management I                          Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16854 Computerteknologi                                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16856 Serverteknologi - Databaseserver                 2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16857 Serverteknologi                                  2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16858 Serveradministration og sikkerhed                2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16859 Serverteknologi - Linux                          2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                Varighed (bundne)        10,5                                     10,5
+Fag på specialet/trinnet Datatekniker med speciale i infrastruktur
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1289 Eux valgfag, løft af niveau, 4 uger           Uden niveau   EUX-fag                       B     4,0   01-08-2019 og fremefter     0%      4,0
+     1595 Netværksdesign II                             3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1600 Serverteknologi II - Design af                3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     1609 Embedded Controller, projekt                  Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                                Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2149 Sikkerhed IV                                  Ekspert       Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                         2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                              3,4           Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6259 Afsluttende projekt for datatekn.             Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6272 Embedded Controller I                         1,2,3,4       Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6273 Embedded Controller II                        2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6275 Embedded Controller III                       2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6277 Projektstyring                                2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                         2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6295 Core Applications                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6495 Afs.prv- Datatekniker med speciale i          Uden niveau   Afsluttende prøve             B     0,0   01-08-2019 og fremefter     0%      0,0
+     6656 Kemi                                          C             hf                            V     3,7   01-08-2019 og fremefter    35%      2,4
+                                              Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                              Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                        Side 20 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  6678 Informatik                                     B             hhx                      B     9,8   01-08-2019 og fremefter    70%      3,0
+  6688 Dansk                                          A             htx                      B    12,8   01-08-2019 og fremefter    52%      6,1
+  6689 Engelsk                                        B             htx                      B     9,8   01-08-2019 og fremefter    51%      4,8
+  6691 Fysik                                          B             htx                      B     9,4   01-08-2019 og fremefter    62%      3,6
+  6695 Matematik                                      B             htx                      B    14,0   01-08-2019 og fremefter    64%      5,1
+  6739 Teknikfag - digitalt design og udvikling       B             EUX-fag                  B     8,0   01-08-2019 og fremefter    50%      4,0
+  6744 Erhvervsområdeprojekt teknisk eux              Uden niveau   EUX-fag                  B     2,0   01-08-2019 og fremefter    20%      1,6
+  7102 Computer Cluster Infrastruktur-Design          3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter    25%      1,5
+  7103 Computer Cluster Programmering                 3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter    25%      1,5
+  7123 Faglig processtyring                           3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter     0%      2,0
+  9446 LINQ og Entity Framework                       3,4           Uddannelsesspecifikke   VVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 10842 Kemi, eux                                      C             Grundfag                 V     3,0   01-08-2019 og fremefter    20%      2,4
+ 12245 Komp-mål, Datatekniker med speciale i          Uden niveau   Kompetencemål            B           01-08-2019 og fremefter
+ 12783 Vedligeholdelse af computere                   Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12794 Installation og konfiguration af computere     Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12795 Fejlfinding og -retning af computere           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12796 Installation af servere                        Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12797 Fejlfinding og -retning af servere             Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12798 Installation af netværk                        Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12799 Fejlfinding og -retning af netværk             Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12800 Brugertilpasning af operativsystemer           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12851 Opgradering af operativsystemer                Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12852 Perifer hardware                               Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12853 Sikkerhed på servere                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12854 Sikkerhed på netværk                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12855 IT service - computer                          Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12856 IT service - servere                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12857 IT service - netværk                           Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12858 IT service - operativsystemer                  Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12859 Brugerservice - computere                      Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12860 Brugerservice - netværk                        Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12861 Brugerservice - applikationer                  Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12862 Serveroperativsystemer                         Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12863 Klientoperativsystemer                         Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12864 Serverløsninger                                Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12865 Netværksløsninger - design                     Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12868 Netværksløsninger - installation m.m.          Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12872 Avanceret fejlfinding af netværk               Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12874 Sikkerhed - implementering                     Uden niveau   Praktikmål               B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16471 Grundlæggende programmering                    Rutineret     Uddannelsesspecifikke    V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server                   2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                                     2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                         2,3,4         Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                           Avanceret     Uddannelsesspecifikke    B     1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                                   Rutineret     Uddannelsesspecifikke    B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering            Rutineret     Uddannelsesspecifikke    B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                                    2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                              3,4           Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+                                                Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                     Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                               Side 21 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 16868 Serverteknologi - Cluster                        3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16869 Virtualisering                                   2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                          3,4           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16871 Netværksteknologi I                              3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16872 Netværksteknologi II                             3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16873 Netværksteknologi III                            3,4           Uddannelsesspecifikke     BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16874 Backupteknologi                                  2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                   2,3           Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                               2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                         Avanceret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                        Avanceret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring                Avanceret     Uddannelsesspecifikke         B     2,0   01-08-2019 og fremefter     0%      2,0
+ 17509 Cybersecurity Operations                         Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17510 Sikkerhed: Firewall                              Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17512 Sikkerhed: Cloud-løsninger                       Rutineret     Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                Varighed (bundne)       107,4                                     69,6
+Fag på specialet/trinnet Datatekniker med speciale i programmering
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1289 Eux valgfag, løft af niveau, 4 uger           Uden niveau   EUX-fag                       B     4,0   01-08-2019 og fremefter     0%      4,0
+     1595 Netværksdesign II                             3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1609 Embedded Controller, projekt                  Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                                Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                         2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                              3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6272 Embedded Controller I                         1,2,3,4       Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6273 Embedded Controller II                        2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6275 Embedded Controller III                       2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6277 Projektstyring                                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                         2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6279 Afsluttende projekt datatekn,                 Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6295 Core Applications                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6621 Afs.prv. Datatekniker med spec. i             Uden niveau   Afsluttende prøve             B           01-08-2019 og fremefter
+     6656 Kemi                                          C             hf                            V     3,7   01-08-2019 og fremefter    35%      2,4
+     6678 Informatik                                    B             hhx                           B     9,8   01-08-2019 og fremefter    70%      3,0
+     6688 Dansk                                         A             htx                           B    12,8   01-08-2019 og fremefter    52%      6,1
+     6689 Engelsk                                       B             htx                           B     9,8   01-08-2019 og fremefter    51%      4,8
+     6691 Fysik                                         B             htx                           B     9,4   01-08-2019 og fremefter    62%      3,6
+     6695 Matematik                                     B             htx                           B    14,0   01-08-2019 og fremefter    64%      5,1
+     6739 Teknikfag - digitalt design og udvikling      B             EUX-fag                       B     8,0   01-08-2019 og fremefter    50%      4,0
+     6744 Erhvervsområdeprojekt teknisk eux             Uden niveau   EUX-fag                       B     2,0   01-08-2019 og fremefter    20%      1,6
+     7102 Computer Cluster Infrastruktur-Design         3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7103 Computer Cluster Programmering                3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+                                           Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                   Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                             Side 22 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  7123 Faglig processtyring                        3,4           Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+  9446 LINQ og Entity Framework                    3,4           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 10842 Kemi, eux                                   C             Grundfag                         V     3,0   01-08-2019 og fremefter    20%      2,4
+ 12250 Komp-mål, Datatekniker med speciale i       Uden niveau   Kompetencemål                    B           01-08-2019 og fremefter
+ 12885 Sikkerhed - programudvikling                Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12888 Programudvikling - it-systemer              Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12889 Programudvikling - (web)applikationer       Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12890 Programmering - databaseudvikling           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 12891 Programmering - embedded systemer           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 15937 Game-design I                               Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 15938 Game-design II                              Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16471 Grundlæggende programmering                 2,3,4         Uddannelsesspecifikke        BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16474 Databaseprogrammering                       3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16475 GUI-programmering                           3,4           Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16476 Clientsideprogrammering                     2,3,4         Uddannelsesspecifikke        BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16477 Serversideprogrammering                     3,4           Uddannelsesspecifikke        BVN       3,0   01-08-2019 og fremefter     0%      3,0
+ 16478 App programmering I                         2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16479 App programmering II                        3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16480 App programmering III                       3,4           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16481 Linux rettet mod server og embedded         2,3           Uddannelsesspecifikke        BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16483 Versionering og dokumentation               2             Uddannelsesspecifikke        BVN       0,5   01-08-2019 og fremefter     0%      0,5
+ 16484 Softwaretest og -sikkerhed                  2,3           Uddannelsesspecifikke        BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16493 Programudvikling - projektstyring           Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16494 Programudvikling - versionering             Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16495 Programudvikling - App                      Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16662 Programudvikling - Test                     Uden niveau   Praktikmål                       B     0,0   01-08-2019 og fremefter     0%      0,0
+ 16861 Netværk II                                  2,3,4         Uddannelsesspecifikke        VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                      Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                        Avanceret     Uddannelsesspecifikke            V     1,5   01-08-2019 og fremefter     0%      1,5
+ 16867 Netværkssikkerhed                           Avanceret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16870 Serverautomatisering II                     Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                              2,3           Uddannelsesspecifikke        VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                          Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                    Avanceret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                   Avanceret     Uddannelsesspecifikke            B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring           Avanceret     Uddannelsesspecifikke            B     2,0   01-08-2019 og fremefter     0%      2,0
+ 16880 Objektorienteret programmering              2,3,4         Uddannelsesspecifikke        BVN       3,5   01-08-2019 og fremefter     0%      3,5
+ 17334 Objekt Orienteret Analyse og Design         Rutineret     Uddannelsesspecifikke            V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17348 Machine Learning                            Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17548 User Interface Design                       Rutineret     Uddannelsesspecifikke            V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                              Varighed (bundne)       107,4                                     69,6
+                                                Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                     Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                               Side 23 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+
+Elevtypesamling:           EUX og EUV1
+Fag fælles for hovedforløb
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1551 Operativsystemer III                          Avanceret     Uddannelsesspecifikke         V     2,5   01-08-2019 og fremefter     0%      2,5
+     1590 Fiberinstallation                             Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1598 Mailserver i Windows organisationen           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6245 Gateway sikkerhed                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6247 Embedded Controller, Dataopsamling og         Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6287 Trådløst netværk (WLAN)                       Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6543 XML                                           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+ 10540 Servermigration                                  3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 10662 System design og analyse gennem et               3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16852 Netværk I                                        2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16853 IT Service Management I                          Rutineret     Uddannelsesspecifikke         B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16854 Computerteknologi                                2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16856 Serverteknologi - Databaseserver                 2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16857 Serverteknologi                                  2,3,4         Uddannelsesspecifikke     BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16858 Serveradministration og sikkerhed                2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16859 Serverteknologi - Linux                          2,3,4         Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                Varighed (bundne)        10,5                                     10,5
+Fag på specialet/trinnet Datatekniker med speciale i infrastruktur
+
+Nr         Titel                                        Niveau        Fagkategori               B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                        varighed                           kort   hed
+                                                                                                         (uger)                                 (uger)
+     1289 Eux valgfag, løft af niveau, 4 uger           Uden niveau   EUX-fag                       B     4,0   01-08-2019 og fremefter     0%      4,0
+     1595 Netværksdesign II                             3,4           Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1600 Serverteknologi II - Design af                3,4           Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     1609 Embedded Controller, projekt                  Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                                Avanceret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     2149 Sikkerhed IV                                  Ekspert       Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6239 IT-kravsspecifikation                         2,3,4         Uddannelsesspecifikke     BVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6246 Embedded Controller, fejlfinding I            Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter    25%      0,8
+     6252 Netværksdesign I                              3,4           Uddannelsesspecifikke     BVN       2,0   01-08-2019 og fremefter     0%      2,0
+     6253 Brancherelaterede netværksprodukter           Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6259 Afsluttende projekt for datatekn.             Avanceret     Uddannelsesspecifikke         B     4,0   01-08-2019 og fremefter     0%      4,0
+     6272 Embedded Controller I                         1,2,3,4       Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6273 Embedded Controller II                        2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6275 Embedded Controller III                       2,3,4         Uddannelsesspecifikke     VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     6277 Projektstyring                                2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter     0%      1,0
+     6278 Programmeringsmetodik                         2,3,4         Uddannelsesspecifikke     VVN       1,0   01-08-2019 og fremefter    25%      0,8
+     6295 Core Applications                             Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6298 Communication                                 Rutineret     Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+     6495 Afs.prv- Datatekniker med speciale i          Uden niveau   Afsluttende prøve             B     0,0   01-08-2019 og fremefter     0%      0,0
+     6656 Kemi                                          C             hf                            V     3,7   01-08-2019 og fremefter    35%      2,4
+                                                Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                                      Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                                Side 24 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+     6678 Informatik                                    B             hhx                            B     9,8   01-08-2019 og fremefter    70%      3,0
+     6688 Dansk                                         A             htx                            B    12,8   01-08-2019 og fremefter    52%      6,1
+     6689 Engelsk                                       B             htx                            B     9,8   01-08-2019 og fremefter    51%      4,8
+     6691 Fysik                                         B             htx                            B     9,4   01-08-2019 og fremefter    62%      3,6
+     6695 Matematik                                     B             htx                            B    14,0   01-08-2019 og fremefter    64%      5,1
+     6739 Teknikfag - digitalt design og udvikling      B             EUX-fag                        B     8,0   01-08-2019 og fremefter    50%      4,0
+     6744 Erhvervsområdeprojekt teknisk eux             Uden niveau   EUX-fag                        B     2,0   01-08-2019 og fremefter    20%      1,6
+     7102 Computer Cluster Infrastruktur-Design         3,4           Uddannelsesspecifikke      VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7103 Computer Cluster Programmering                3,4           Uddannelsesspecifikke      VVN       2,0   01-08-2019 og fremefter    25%      1,5
+     7123 Faglig processtyring                          3,4           Uddannelsesspecifikke      VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     9446 LINQ og Entity Framework                      3,4           Uddannelsesspecifikke      VVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 10842 Kemi, eux                                        C             Grundfag                       V     3,0   01-08-2019 og fremefter    20%      2,4
+ 12245 Komp-mål, Datatekniker med speciale i            Uden niveau   Kompetencemål                  B           01-08-2019 og fremefter
+ 16471 Grundlæggende programmering                      Rutineret     Uddannelsesspecifikke          V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16860 Serverteknologi - Web-server                     2,3,4         Uddannelsesspecifikke      BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16861 Netværk II                                       2,3,4         Uddannelsesspecifikke      BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                           2,3,4         Uddannelsesspecifikke      BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                             Avanceret     Uddannelsesspecifikke          B     1,5   01-08-2019 og fremefter     0%      1,5
+ 16864 Kundeservice                                     Rutineret     Uddannelsesspecifikke          B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16865 Grundlæggende databaseprogrammering              Rutineret     Uddannelsesspecifikke          B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16866 Netværk III                                      2,3,4         Uddannelsesspecifikke      BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16867 Netværkssikkerhed                                3,4           Uddannelsesspecifikke      BVN       2,0   01-08-2019 og fremefter     0%      2,0
+ 16868 Serverteknologi - Cluster                        3,4           Uddannelsesspecifikke      BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16869 Virtualisering                                   2,3,4         Uddannelsesspecifikke      BVN       1,5   01-08-2019 og fremefter     0%      1,5
+ 16870 Serverautomatisering II                          3,4           Uddannelsesspecifikke      BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16871 Netværksteknologi I                              3,4           Uddannelsesspecifikke      BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16872 Netværksteknologi II                             3,4           Uddannelsesspecifikke      BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16873 Netværksteknologi III                            3,4           Uddannelsesspecifikke      BVN       2,5   01-08-2019 og fremefter     0%      2,5
+ 16874 Backupteknologi                                  2,3           Uddannelsesspecifikke      BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                                   2,3           Uddannelsesspecifikke      BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                               2,3,4         Uddannelsesspecifikke      BVN       1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                         Avanceret     Uddannelsesspecifikke          B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                        Avanceret     Uddannelsesspecifikke          B     1,0   01-08-2019 og fremefter     0%      1,0
+ 16879 Systemudvikling og projektstyring                Avanceret     Uddannelsesspecifikke          B     2,0   01-08-2019 og fremefter     0%      2,0
+ 17509 Cybersecurity Operations                         Rutineret     Uddannelsesspecifikke          V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17510 Sikkerhed: Firewall                              Rutineret     Uddannelsesspecifikke          V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17512 Sikkerhed: Cloud-løsninger                       Rutineret     Uddannelsesspecifikke          V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                                 Varighed (bundne)       107,4                                     69,6
+Fag på specialet/trinnet Datatekniker med speciale i programmering
+
+Nr         Titel                                        Niveau        Fagkategori                B/V       Opr. Tilknytningsperiode          Af- Varig-
+                                                                                                         varighed                           kort   hed
+                                                                                                          (uger)                                 (uger)
+     1289 Eux valgfag, løft af niveau, 4 uger           Uden niveau   EUX-fag                        B     4,0   01-08-2019 og fremefter     0%      4,0
+     1595 Netværksdesign II                             3,4           Uddannelsesspecifikke      VVN       2,0   01-08-2019 og fremefter     0%      2,0
+     1609 Embedded Controller, projekt                  Rutineret     Uddannelsesspecifikke          V     1,0   01-08-2019 og fremefter     0%      1,0
+     1644 ASP.NET og XML                                Avanceret     Uddannelsesspecifikke          V     1,0   01-08-2019 og fremefter     0%      1,0
+     2113 Network management                            Rutineret     Uddannelsesspecifikke          V     1,0   01-08-2019 og fremefter     0%      1,0
+     2130 Udvidet hardware/software projekt             Rutineret     Uddannelsesspecifikke          V     1,0   01-08-2019 og fremefter     0%      1,0
+                                            Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                            Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                      Side 25 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+  6239 IT-kravsspecifikation                        2,3,4         Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+  6246 Embedded Controller, fejlfinding I           Rutineret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter    25%      0,8
+  6252 Netværksdesign I                             3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter     0%      2,0
+  6272 Embedded Controller I                        1,2,3,4       Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+  6273 Embedded Controller II                       2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+  6275 Embedded Controller III                      2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+  6277 Projektstyring                               2,3,4         Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+  6278 Programmeringsmetodik                        2,3,4         Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+  6279 Afsluttende projekt datatekn,                Avanceret     Uddannelsesspecifikke    B     4,0   01-08-2019 og fremefter     0%      4,0
+  6295 Core Applications                            Rutineret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+  6298 Communication                                Rutineret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+  6621 Afs.prv. Datatekniker med spec. i            Uden niveau   Afsluttende prøve        B           01-08-2019 og fremefter
+  6656 Kemi                                         C             hf                       V     3,7   01-08-2019 og fremefter    35%      2,4
+  6678 Informatik                                   B             hhx                      B     9,8   01-08-2019 og fremefter    70%      3,0
+  6688 Dansk                                        A             htx                      B    12,8   01-08-2019 og fremefter    52%      6,1
+  6689 Engelsk                                      B             htx                      B     9,8   01-08-2019 og fremefter    51%      4,8
+  6691 Fysik                                        B             htx                      B     9,4   01-08-2019 og fremefter    62%      3,6
+  6695 Matematik                                    B             htx                      B    14,0   01-08-2019 og fremefter    64%      5,1
+  6739 Teknikfag - digitalt design og udvikling     B             EUX-fag                  B     8,0   01-08-2019 og fremefter    50%      4,0
+  6744 Erhvervsområdeprojekt teknisk eux            Uden niveau   EUX-fag                  B     2,0   01-08-2019 og fremefter    20%      1,6
+  7102 Computer Cluster Infrastruktur-Design        3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter    25%      1,5
+  7103 Computer Cluster Programmering               3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter    25%      1,5
+  7123 Faglig processtyring                         3,4           Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter     0%      2,0
+  9446 LINQ og Entity Framework                     3,4           Uddannelsesspecifikke   VVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 10842 Kemi, eux                                    C             Grundfag                 V     3,0   01-08-2019 og fremefter    20%      2,4
+ 12250 Komp-mål, Datatekniker med speciale i        Uden niveau   Kompetencemål            B           01-08-2019 og fremefter
+ 15937 Game-design I                                Rutineret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+ 15938 Game-design II                               Rutineret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16471 Grundlæggende programmering                  2,3,4         Uddannelsesspecifikke   BVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16474 Databaseprogrammering                        3,4           Uddannelsesspecifikke   BVN    3,0   01-08-2019 og fremefter     0%      3,0
+ 16475 GUI-programmering                            3,4           Uddannelsesspecifikke   BVN    2,5   01-08-2019 og fremefter     0%      2,5
+ 16476 Clientsideprogrammering                      2,3,4         Uddannelsesspecifikke   BVN    2,5   01-08-2019 og fremefter     0%      2,5
+ 16477 Serversideprogrammering                      3,4           Uddannelsesspecifikke   BVN    3,0   01-08-2019 og fremefter     0%      3,0
+ 16478 App programmering I                          2,3           Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 16479 App programmering II                         3,4           Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 16480 App programmering III                        3,4           Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 16481 Linux rettet mod server og embedded          2,3           Uddannelsesspecifikke   BVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 16483 Versionering og dokumentation                2             Uddannelsesspecifikke   BVN    0,5   01-08-2019 og fremefter     0%      0,5
+ 16484 Softwaretest og -sikkerhed                   2,3           Uddannelsesspecifikke   BVN    1,5   01-08-2019 og fremefter     0%      1,5
+ 16861 Netværk II                                   2,3,4         Uddannelsesspecifikke   VVN    2,0   01-08-2019 og fremefter     0%      2,0
+ 16862 Serverautomatisering I                       Rutineret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16863 Praktisk fejlfinding                         Avanceret     Uddannelsesspecifikke    V     1,5   01-08-2019 og fremefter     0%      1,5
+ 16867 Netværkssikkerhed                            Avanceret     Uddannelsesspecifikke    V     2,0   01-08-2019 og fremefter     0%      2,0
+ 16870 Serverautomatisering II                      Avanceret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16875 Cloudteknologi                               2,3           Uddannelsesspecifikke   VVN    1,0   01-08-2019 og fremefter     0%      1,0
+ 16876 Deployment Service                           Rutineret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16877 IT Service Management II                     Avanceret     Uddannelsesspecifikke    V     1,0   01-08-2019 og fremefter     0%      1,0
+ 16878 Udvikling                                    Avanceret     Uddannelsesspecifikke    B     1,0   01-08-2019 og fremefter     0%      1,0
+                                           Metalindustriens uddannelsesudvalg
+
+
+Uddannelsesordning for data- og kommunikationsuddannelsen                                                              Udskrevet den 20-08-2019
+Uddannelsesordning for 1205 Data- og kommunikationsuddannelsen (version 10)                                                        Side 26 af 26
+
+Bekendtgørelse om data- og kommunikationsuddannelsen (01-08-2019)
+
+
+
+ 16879 Systemudvikling og projektstyring           Avanceret   Uddannelsesspecifikke         B     2,0   01-08-2019 og fremefter     0%      2,0
+ 16880 Objektorienteret programmering              2,3,4       Uddannelsesspecifikke     BVN       3,5   01-08-2019 og fremefter     0%      3,5
+ 17334 Objekt Orienteret Analyse og Design         Rutineret   Uddannelsesspecifikke         V     1,0   01-08-2019 og fremefter     0%      1,0
+ 17348 Machine Learning                            Rutineret   Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+ 17548 User Interface Design                       Rutineret   Uddannelsesspecifikke         V     2,0   01-08-2019 og fremefter     0%      2,0
+
+                                                                         Varighed (bundne)       107,4                                     69,6
+

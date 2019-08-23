@@ -1,0 +1,20 @@
+#!/usr/bin/perl
+my @array;
+
+$array[0] = ["Abe","Menneske","Ko"];
+$array[1] = ["banan","agurk","kartoffel"];
+$array[2] = ["Flue","insekt","bi","Hveps"];
+$array[3] = ["Flue","insekt","bi","Hveps"];
+$array[4] = ["Flue","insekt","bi","Hveps"];
+printf("Size of array: %i -  array[0]: %i - array[2]: %i\n",$#array, $#{$array[0]},$#{$array[2]});
+use enum qw(Sun Mon Tue Wed Thu Fri Sat);
+my $txt="<Sun>Life is wonderfull\n";
+if ( $txt =~ /^<Sun>(.*)/ ) {
+	printf("-> %s\n", $1);
+}
+printf("It is %i to day\n",Sun); 
+foreach (@{$array[1]}) {
+	print "$_\n";
+}
+print $array[2][0];
+
