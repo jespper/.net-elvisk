@@ -1,0 +1,14 @@
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.exe
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.deps.json
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.runtimeconfig.json
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.runtimeconfig.dev.json
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.dll
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\bin\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.pdb
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.csprojAssemblyReference.cache
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.csproj.CoreCompileInputs.cache
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.AssemblyInfoInputs.cache
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.AssemblyInfo.cs
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.dll
+C:\Users\jeja.skp\source\repos\SchoolSubjectExtractor\SchoolSubjectExtractor\obj\Release\netcoreapp2.1\win10-x64\SchoolSubjectExtractor.pdb

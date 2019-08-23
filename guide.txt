@@ -1,0 +1,2 @@
+1. Gå på jespers ubuntu server (192.168.112.199), perl er sat op på den, gå ind i /Perl/dtkv10/bin og brug kommandoen "perl eudtrin1.pl {pdf stig her uden '{}'}"
+2. kør 
