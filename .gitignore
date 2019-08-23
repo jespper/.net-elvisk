@@ -1,8 +1,8 @@
-/.bashrc
-/.bash_logout
-/.bash_history
-/.cpan/build/*
-/.viminfo
-/.mysql_history
-/.sudo_as_admin_successful
+.bashrc
+.bash_logout
+.bash_history
+.cpan/build
+.viminfo
+.mysql_history
+.sudo_as_admin_successful
 
