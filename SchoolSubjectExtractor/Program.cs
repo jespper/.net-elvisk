@@ -17,7 +17,10 @@ namespace SchoolSubjectExtractor
             {
                 return;
             }
-            var reader = db.Select("SELECT * FROM elevtyperaw");
+
+            Console.WriteLine("what ordning_id do you want to do");
+            string chosenOrdning = Console.ReadLine();
+            var reader = db.Select("SELECT * FROM elevtyperaw WHERE ordning_id = @chosen", chosenOrdning);
             Subject subject = new Subject();
             while (reader.Read())
             {
@@ -80,21 +83,51 @@ namespace SchoolSubjectExtractor
                 if (output.Contains(@"<PIND  >"))
                 {
                     output = output.Substring(9, output.Length - 10);
-                    subject.goals.Add(new Goal(output));
+                    
+                    string number = Regex.Match(output,@"^(\d*)").Value;
+                    string date = Regex.Match(output, @"(\d\d-\d\d-\d\d\d\d.*)").Value;
+                    string tmp = Regex.Match(output, @"(\s.* \d)").Value;
+                    string name;
+                    if (tmp.Length != 0)
+                    {
+                        name = tmp.Substring(0, tmp.Length - 1);
+                    }
+                    else
+                    {
+                        name = "";
+                    }
+
+                    if (number == "")
+                    {
+                        if (subject.goals.Count == 0)
+                        {
+                            subject.goals.Add(new Goal("", "9999", ""));
+                        }
+                        subject.goals[subject.goals.Count - 1].name += name;
+                    }
+                    else
+                    {
+                        subject.goals.Add(new Goal(name, number, date));
+                    }
+
+                    
                     //Console.WriteLine(output);
                 }
                 if (output.Contains(@"<PIND+ >"))
                 {
                     output = output.Substring(9, output.Length - 10);
-                    //Console.WriteLine(output);
-                    //Console.WriteLine(subject.goals.Count);
                     
                     if (subject.goals.Count == 0)
                     {
-                        subject.goals.Add(new Goal(""));
+                        subject.goals.Add(new Goal("","9999", ""));
                     }
-                    subject.goals[subject.goals.Count - 1].subGoals.Add(new Goal(output));
-                    
+
+                    subject.goals[subject.goals.Count - 1].name += " " + output;
+                }
+
+                if (output.Contains("Administering a SQL Database Infrastructure"))
+                {
+                    Console.WriteLine("hti");
                 }
                 #endregion
             }
@@ -103,9 +136,21 @@ namespace SchoolSubjectExtractor
             subjects.RemoveAt(0);
             Console.WriteLine("Finished getting all the data");
             db.reader.Close();
+
             db.Create_Speciale(subjects);
             Console.WriteLine("Finished creating subjects");
+            
+            db.Create_Merged_Fag(subjects);
+            Console.WriteLine("Finished creating merged_subjects");
 
+            db.Create_results(subjects);
+            Console.WriteLine("Finished creating results");
+
+            db.Create_Goals(subjects);
+            Console.WriteLine("Finished creating goals");
+
+            db.Combine_Goals_Subjects(subjects);
+            Console.WriteLine("Finished combining subjects and goals");
             //end
             db.Close();
             Console.ReadKey();

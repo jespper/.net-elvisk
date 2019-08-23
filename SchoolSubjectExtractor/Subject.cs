@@ -21,11 +21,15 @@ namespace SchoolSubjectExtractor
 
     public class Goal
     {
+        public string number;
         public string name;
+        public string date;
         public List<Goal> subGoals = new List<Goal>();
 
-        public Goal(string name)
+        public Goal(string name, string number, string date)
         {
+            this.date = date;
+            this.number = number;
             this.name = name;
         }
     }
