@@ -40,7 +40,7 @@ sub wikiV8 {
   my $text;
   $text = "{{Infobox specialeV8\n";
   if ( $self->speciale() =~ /Hoved/ ) {
-    $text = $text . sprintf " | speciale   =  Fællesfag for hovedforløb\n";
+    $text = $text . sprintf " | speciale   =  Fï¿½llesfag for hovedforlï¿½b\n";
   } else {
     $text = $text . sprintf " | speciale   = %s\n",$self->speciale();
   }
