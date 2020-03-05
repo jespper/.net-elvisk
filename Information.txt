@@ -1,6 +1,0 @@
-There is a perl script located on 192.168.112.199, brugernavn er "jesper" og password er "Password1" 
-perl scriptet og generering af database scriptet ligger i en mappe der hedder perl/dtkv10/bin/
-derudover ligger der også en fil i perl mappen som hedder Ikke-navngivet.pdf dette er documentet hentet fra https://www.eud.uddannelsesadministration.dk/ hvor alle speciale fagende ligger
-
-
-Målet med opgaven er at få udfyldt databasen på web01-dmz (eud5)

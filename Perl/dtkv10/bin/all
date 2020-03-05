@@ -1,7 +1,0 @@
-#!/bin/bash
-./eudtrin1.pl ../data/1205-010717.pdf
-./eudtrin1.pl ../data/Elektronik.pdf
-./eudtrin1.pl ../data/Elektriker.pdf
-./eudtrin1.pl ../data/vvs.pdf
-./eudtrin1.pl ../data/Personvogns\ mekaniker.pdf
-./eudtrin1.pl ../data/automatik.pdf

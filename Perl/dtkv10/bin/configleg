@@ -1,7 +1,0 @@
- #!/usr/bin/perl
-use strict;
- use warnings;
-use Config::Simple;
-my %cfg;
-Config::Simple->import_from('./config.conf', \%cfg) or die("Configfil kunne ikke indlæses");
-

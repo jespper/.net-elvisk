@@ -17,7 +17,7 @@ namespace SchoolSubjectExtractor
 
         public DB()
         {
-            connectionString = @"Server=192.168.116.20;Database=eud5;UID=elvisk;Password=%C9cH$ar@M85DpJ!";
+            connectionString = @"Server=***.***.***.**;Database=eud5;UID=elvisk;Password=********";
             _conn = new MySqlConnection(connectionString);
         }
 
